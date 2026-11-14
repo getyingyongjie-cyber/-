@@ -1,0 +1,24 @@
+{
+  "scope": "Preparation and simulated tests only; real credentials are absent",
+  "backendTests": 2,
+  "displayReviews": 12,
+  "badgeRemoved": true,
+  "displaySectionDistinguished": true,
+  "rightAlignedCheckbox": true,
+  "configurationMissingDoesNotPretendToLogin": true,
+  "loginRequiredToSend": true,
+  "draftSurvivesRedirectAndFailure": true,
+  "nameMaskedBeforeSubmission": true,
+  "logoutDisablesSending": true,
+  "realEmailsSent": 0,
+  "runtimeErrors": [],
+  "catalogRecords": 1291,
+  "catalogUnchanged": true,
+  "desktopSyncHash": "c5a956af3fc969f03e403268c22a358f02bb880b834880b589d65f1b91b477ee",
+  "realGoogleAuthorizationVerified": false,
+  "configurationNeeded": [
+    "GOOGLE_CLIENT_ID",
+    "GOOGLE_CLIENT_SECRET",
+    "PUBLIC_ORIGIN"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "desktopMenuStyles": [
+    {
+      "width": 200,
+      "radius": "14px",
+      "padding": "5px"
+    },
+    {
+      "width": 200,
+      "radius": "14px",
+      "padding": "5px"
+    },
+    {
+      "width": 200,
+      "radius": "14px",
+      "padding": "5px"
+    }
+  ],
+  "mobileThemeMenu": {
+    "left": 12,
+    "right": 212,
+    "top": 187,
+    "bottom": 394,
+    "viewport": 390,
+    "swatches": [
+      "rgb(15, 15, 26)",
+      "rgb(241, 245, 249)",
+      "rgb(10, 22, 40)",
+      "rgb(15, 10, 30)",
+      "rgb(15, 23, 42)"
+    ]
+  },
+  "emailRecipient": "getyingyongjie@gmail.com",
+  "emailSending": "mailto draft validated; no email sent during test",
+  "historyPreserved": true,
+  "refreshAtTop": true,
+  "dailyEntryDurationMs": 240,
+  "aiRecommendations": 3,
+  "runtimeErrors": [],
+  "catalogRecords": 1291,
+  "catalogAndGuidesUnchanged": true,
+  "desktopSyncHash": "f50de9101266399216c16e4a3da7f645fb3124308729c41da56544169722f337"
+}
